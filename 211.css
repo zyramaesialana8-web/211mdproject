@@ -92,11 +92,11 @@ margin-bottom:35px;
 }
 
 .preamble h3 {
-background-image: url(tittle1.jpg);
+background-image: url(title01.jpg);
 background-repeat: no-repeat;
-background-position: center;
-width:400px;
-height:50px;
+background-position: left top;
+width:286px;
+height:64px;
 margin-bottom:-5px;
 }
 
@@ -169,7 +169,7 @@ margin-left: 270px;
 width: 180px;
 border:0px dotted #e40aa6;
 background: transparent url(bleh.jpg) no-repeat bottom;
-height:1550px;
+height:1500px;
 }
 
 .sidebar ul {
