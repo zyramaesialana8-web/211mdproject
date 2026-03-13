@@ -50,10 +50,10 @@ position:relative;
 }
 
 header {
-background: transparent url(header2.jpg) no-repeat center top;
+background: transparent url(header3.jpg) no-repeat center top;
 border:0px dotted #999999;
-width: 642px;
-height:387px;
+width: 800px;
+height:400px;
 }
 
 .intro {
