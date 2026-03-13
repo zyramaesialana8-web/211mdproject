@@ -16,19 +16,19 @@
 /* --------------------------*/
 
 a:link {
-	color: #6D2542;
+	color: #df0b9c;
 	text-decoration: none;
 	}
 a:visited {
-	color: #999999;
+	color: #770690;
 	text-decoration: none;
 	}
 a:hover {
-	color: #999999;
+	color: #8c0d8c;
 	text-decoration: underline;
 	}
 a:active {
-	color: #999999;
+	color: #900c83;
 	text-decoration: none;
 	} 
 
@@ -53,7 +53,7 @@ header {
 background: transparent url(header3.jpg) no-repeat center top;
 border:0px dotted #999999;
 width: 800px;
-height:400px;
+height:px;
 }
 
 .intro {
@@ -152,7 +152,7 @@ overflow: hidden;
 }
 
 p {
-color: #999999;
+color: #810a73;
 font-size:11px;
 font-weight:normal;
 line-height:1.4em;
@@ -167,7 +167,7 @@ top: 400px;
 padding:0 0 0 0;
 margin-left: 270px;
 width: 180px;
-border:0px dotted #666666;
+border:0px dotted #e40aa6;
 background: transparent url(orchid.jpg) no-repeat bottom;
 height:810px;
 }
@@ -179,14 +179,14 @@ height:810px;
 	padding:0 0 15px 35px;
 	font-size:10px;
 	font-family:Geneva, Arial, Helvetica, sans-serif;
-	border:0px dotted #666666;
+	border:0px dotted #e609c9;
 	width:120px;
 	}
 
 .sidebar ul li{
 	margin: 0;
 	padding: 3px 0 3px 0;
-	border-bottom: 1px dotted #999999;
+	border-bottom: 1px dotted #ab0b9d;
 }
 
 .sidebar ul li a, .sidebar ul li a:visited {
@@ -227,7 +227,7 @@ height:810px;
 
 .design-selection, .design-archives {
 	margin-bottom: 5px;
-	border:0px solid #000000;
+	border:0px solid #990580;
 }
 
 .design-archives ul li a, .zen-resources ul li a {
@@ -243,7 +243,7 @@ color:#6D2542;
 	font-size:11px;
 	font-weight:normal;
 	text-transform: uppercase;
-	color:#999999;
+	color:#d70c75;
 }
 
 footer{
@@ -255,7 +255,7 @@ footer{
 footer a, footer a:visited {
 	padding: 5px;
 	border: 1px solid #eeeeee;
-	background-color: #fff;
+	background-color: #ec0c71;
 	color: #666666;
 	font-family:Geneva, Arial, Helvetica, sans-serif;
 	font-size:10px;
